@@ -1,0 +1,4 @@
+ul.ybd-fancy-bullets {padding-left: 0;margin-left: 0;}
+ul.ybd-fancy-bullets .ybd-fancy-bullet-item {list-style-type: none;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;margin-bottom: 1rem;}
+ul.ybd-fancy-bullets .ybd-fancy-bullet-item:last-child {margin-bottom: 0;}
+ul.ybd-fancy-bullets .ybd-fancy-bullet-item .ybd-fancy-bullet-icon {height: 2em;width: auto;line-height: 1.9;margin-right: 1rem;}

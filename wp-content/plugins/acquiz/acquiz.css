@@ -1,0 +1,12 @@
+.hide-results, .acpic {display: none;}
+div.acquiz {background: #e9eaee;font-family: "Raleway",sans-serif;margin-bottom: 30px;}
+div.acquiz .row {padding: 25px;font-weight: 700;border-bottom: 1px solid #fff;font-size: 1.1em;line-height: 1.4;}
+div.acquiz input {padding: 10px;font-weight: normal;width: 100%;border: 1px solid #0e9296;}
+div.quizresults {margin: 30px auto 15px;}
+div.quizresults img {margin: 15px;float: left;}
+div.quizresults p:first-child {text-align: center;color: #0e9296;font-weight: 300;text-transform: uppercase;margin-top: 50px;}
+div.quizresults p span {font-weight: 700;}
+.btn-block {width: 100%;background: #0e9296;color: #fff;text-transform: uppercase;border: none;padding: 10px;font-weight: 500;font-size: 1.2em;}
+.btn-block:hover {background: #f16532;}
+.quiz-select {width: 100% !important;background: url("../../images/teal-arrow.png") no-repeat right !important;box-shadow: none;color: #1c9294;background-color: #fff !important;border: 1px solid #1c9294 !important;}
+h2.quizheader {font-family: "museo-sans",sans-serif;text-align: center;line-height: 1.25;font-weight: 700;}

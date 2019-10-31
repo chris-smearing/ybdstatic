@@ -1,0 +1,27 @@
+.hide-results, .acpic {display: none;}
+div.acquiz {background: #e9eaee;font-family: "Raleway",sans-serif;margin-bottom: 30px;}
+div.acquiz .row {padding: 25px;font-weight: 700;border-bottom: 1px solid #fff;font-size: 1.1em;line-height: 1.4;}
+div.acquiz input {padding: 10px;font-weight: normal;width: 100%;border: 1px solid #0e9296;}
+div.quizresults {margin: 30px auto 15px;}
+div.quizresults img {margin: 15px;float: left;}
+div.quizresults p:first-child {text-align: center;color: #0e9296;font-weight: 300;text-transform: uppercase;margin-top: 50px;}
+div.quizresults p span {font-weight: 700;}
+.btn-block {width: 100%;background: #0e9296;color: #fff;text-transform: uppercase;border: none;padding: 10px;font-weight: 500;font-size: 1.2em;}
+.btn-block:hover {background: #f16532;}
+.quiz-select {width: 100% !important;background: url("../../images/teal-arrow.png") no-repeat right !important;box-shadow: none;color: #1c9294;background-color: #fff !important;border: 1px solid #1c9294 !important;}
+h2.quizheader {font-family: "museo-sans",sans-serif;text-align: center;line-height: 1.25;font-weight: 700;}
+#output {text-align: center;margin-top: 45px;}
+.switch-field {overflow: hidden;}
+.switch-title {float: left;margin-right: 25px;margin-top: 6px;}
+.switch-field input {position: absolute !important;clip: rect(0,0,0,0);height: 1px;width: 1px;border: 0;overflow: hidden;}
+.switch-field label {float: left;}
+.switch-field label {display: inline-block;background-color: #e4e4e4;color: rgba(0,0,0,.6);font-size: 14px;font-weight: normal;text-align: center;text-shadow: none;padding: 6px 14px;border: 1px solid rgba(0,0,0,.2);-webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,.3),0 1px rgba(255,255,255,.1);box-shadow: inset 0 1px 3px rgba(0,0,0,.3),0 1px rgba(255,255,255,.1);-webkit-transition: all .12s ease-in-out;-moz-transition: all .12s ease-in-out;-ms-transition: all .12s ease-in-out;-o-transition: all .12s ease-in-out;transition: all .12s ease-in-out;}
+.switch-field label:hover {cursor: pointer;}
+.switch-field input:checked + label {color: #fff;background-color: #0e9296;-webkit-box-shadow: none;box-shadow: none;}
+.switch-field label:first-of-type {border-radius: 2px 0 0 2px;}
+.switch-field label:last-of-type {border-radius: 0 2px 2px 0;}
+.switch-options {position: relative;float: right;}
+.rangeslider__fill {background: #0e9296 !important;border-radius: 0px !important;}
+.rangeslider__handle {border-radius: 0px !important;}
+.rangeslider--horizontal {border-radius: 0px !important;}
+.rangeslider-wrap {margin-top: 10px;}
